@@ -1,0 +1,20 @@
+{
+  "name": "pro-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "i": "^0.3.7",
+    "jwt-decode": "^4.0.0",
+    "mongoose": "^8.8.4",
+    "nodemon": "^3.1.7",
+    "npm": "^10.9.2"
+  }
+}
